@@ -13,7 +13,11 @@ This folder contains notebooks and datasets to learning distance based concepts.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/ISB_MLUL1/blob/main/clustering/Content_Based_Recsys_v1.ipynb)
 
-### 4. Embedding Based Similarity
+### 4. Explore Embeddings
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/ISB_MLUL1/blob/main/clustering/Exploring_Embeddings_v1.ipynb)
+
+### 5. Embedding Based Similarity
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/ISB_MLUL1/blob/main/clustering/Content_Based_Recsys_Embeddings_v1.ipynb)
 
